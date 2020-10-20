@@ -1,9 +1,6 @@
-<p align="center">
- <img width="200vw" style=" border-radius: 15%" src="https://avatars0.githubusercontent.com/u/53313409?s=400&u=f1971cfb209634d0246db39601de349f6db3eb32&v=4" align="center" alt="Project logo" />
- 
- <h3 align="center"><i>is proud to present</i></h3>
- <h1 align="center">Innovate to Implement</h1>
-</p>
+
+# Innovate to Implement
+
 
 
 OTF is delighted to announce **I2I - Innovate to Implement**, a platform for aspiring students. This platform is aimed at helping students understand cutting edge infrastructure and then implement innovative ideas on top of it. The I2I platform will be a **progressive journey** for the participants that will hone their technical skills and help them understand industrial trends.
