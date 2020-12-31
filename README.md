@@ -17,7 +17,7 @@ Since most of the industries are inclined towards Kubernetes for their underlyin
 
 The overall process is divided in four stages:
 
-1. **Learn** `1st Week of Jan` : Self learning paths/Checklist will be provided to the participants so that they get aware aboout the tools and technologies.
+1. **Learn** `1st Week of Jan` : Self learning paths/Checklist will be provided to the participants so that they get aware aboout the tools and technologies. The learning paths can be found at <a href-"https://github.com/opentechfn/i2l/tree/main/learning-paths">https://github.com/opentechfn/i2l/tree/main/learning-paths</a>
 
 2. **Make** `2nd Week of Jan` : Hands-On tutorials will be provided to the participants so that they get an operational experience of the core concepts.
 
