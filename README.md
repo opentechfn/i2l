@@ -17,12 +17,12 @@ Since most of the industries are inclined towards Kubernetes for their underlyin
 
 The overall process is divided in four stages:
 
-1. **Learn**: Self learning paths/Checklist will be provided to the participants so that they get aware aboout the tools and technologies.
+1. **Learn** `1st Week of Jan` : Self learning paths/Checklist will be provided to the participants so that they get aware aboout the tools and technologies.
 
-2. **Operate**: Hands-On tutorials will be provided to the participants so that they get an operational experience of the core concepts.
+2. **Make** `2nd Week of Jan` : Hands-On tutorials will be provided to the participants so that they get an operational experience of the core concepts.
 
-3. **Assemble**: Professionals working in the repective domains will be assigned to enhinace their knowledge and make them ready for the last stage.
+3. **Group** `3rd Week of Jan` : Professionals working in the repective domains will be assigned to enhinace their knowledge and make them ready for the last stage.
 
-4. **Build**: Last stage of this process is Hackathon. Participants will have to pick a topic from listed Use cases and solve the issue. These Use cases will be actual issues faced in the industrial infrastructures. Moreover, there will also be liberty for the participants to pick up theier topic of interest (provide it has no objection from the panel).
+4. **Build** `4th Week of Jan` : Last stage of this process is Hackathon. Participants will have to pick a topic from listed Use cases and solve the issue. These Use cases will be actual issues faced in the industrial infrastructures. Moreover, there will also be liberty for the participants to pick up theier topic of interest (provide it has no objection from the panel).
 
 Teams consisting of **One to Five members** are welcome to register.
