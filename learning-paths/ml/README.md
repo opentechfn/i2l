@@ -34,6 +34,11 @@ The coding can be using all forms of Math & Stat libraries or specialized matrix
 R / SAS, Python (PyTorch) libraries. refer - https://en.wikibooks.org/wiki/MATLAB_Programming/Differences_between_Octave_and_MATLAB 
 
 Note these standard algoritms will be available in plenty, but to use what for which domain and are solution is key to machine learning.
+Eg. of AI/ML for detection and Inferences iclude
+Alibi, Alibi-detect in Python and this can be applied to Health /Genomics/proteomics which is the focus for year 2021 CY Q2/3/4.
+Also there are forked projects in the Opetechfn github for Production level use for MLOPs and Kubeflow pipe lines in https://github.com/kubeflow/.
+Please review all the originl or forked  projects within the opentechfn github to seek help in listed project areas for your Hakathon solutions.
+
 Students here are expected to know minimum basics of Supervised and Unspuervised learning and able to run few models to show you understand
 the concpets clearly. Hands on could be just try run some number or logic and help tem members to grasp and use ML as a tool with Jupyter Terminal.
 
