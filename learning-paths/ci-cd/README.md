@@ -25,4 +25,4 @@ https://www.katalon.com/resources-center/blog/ci-cd-tools/
 To be more effetive in underrstanding first start with Git as that's the mother of all automation efforts.
 Spend an hour to learn git first - https://www.youtube.com/watch?v=8JJ101D3knE
 
-In CI/CD the creation of an image form different sources for bootstrapping is a key elemnt and you may review the https://github.com/buildpacks for this.
+In CI/CD the creation of an image form different sources for bootstrapping is a key element and you may review the https://github.com/buildpacks for this.
