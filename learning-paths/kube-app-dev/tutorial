@@ -3,6 +3,6 @@
 # follow katacoda track (minikube if you have a linux cli with access) - you can push on launch button in browser and follow instructions
 https://kubernetes.io/docs/tutorials/hello-minikube/
 
-# If you are able to see the dashboard and spot pod, sercice deployed etc. you know at the minimum how it works and rest is reading.
+# If you are able to see the dashboard and spot pod, service deployed etc. you know at the minimum how it works and rest is reading.
 # https://kubernetes.io/docs/home/
 # Fully read this top to bottom
