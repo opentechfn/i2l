@@ -1,6 +1,6 @@
 # This is the minmum exercise to complete on your browser ##
 # launch the kuberenetes cluser, create hello-pod , create a deployment, delete hello-pod and delete service and cleanup
-# follow katakoda track (minikube if you have a linux cli with access)
+# follow katacoda track (minikube if you have a linux cli with access) - you can push on launch button in browser and follow instructions
 https://kubernetes.io/docs/tutorials/hello-minikube/
 
 # If you are able to see the dashboard and spot pod, sercice deployed etc. you know at the minimum how it works and rest is reading.
