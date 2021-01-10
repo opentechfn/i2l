@@ -2,13 +2,13 @@
 Please complete the following checklist as bootcamp for Kubernetes
 
 ## Basics and pre-requisites
-[] Introduction to Virtualization
+[] Introduction to Virtualization - https://www.youtube.com/watch?v=biO_TV7k1cU
 
-[] Introduction to Containerization
+[] Introduction to Containerization - https://www.youtube.com/watch?v=JSLpG_spOBM
 
-[] Introduction to Docker
+[] Introduction to Docker - https://www.youtube.com/watch?v=nrBwWPGrF6w (Salno & Saiyam)
 
-[] Introduction to YAML
+[] Introduction to YAML - https://www.youtube.com/watch?v=cdLNKUoMc6c&feature=youtu.be
 
 ## Kubernetes Overview
 [] Container Orchestration
@@ -38,6 +38,7 @@ Please complete the following checklist as bootcamp for Kubernetes
 [] Helm package manager
 
 ### Resources
+- https://www.youtube.com/watch?v=RlMu--8yVUQ (CKA / CKAD) - Chandra Sharma
 - https://kubernetes.io/docs/tutorials/kubernetes-basics/
 - https://drive.google.com/drive/u/0/folders/1ETXPGF3dh29ZtstUXv_nrpNXcg5ROGPf
 - https://www.youtube.com/watch?v=PziYflu8cB8
