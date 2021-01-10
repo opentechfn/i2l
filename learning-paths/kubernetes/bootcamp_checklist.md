@@ -11,11 +11,11 @@ Please complete the following checklist as bootcamp for Kubernetes
 [] Introduction to YAML - https://www.youtube.com/watch?v=cdLNKUoMc6c&feature=youtu.be
 
 ## Kubernetes Overview
-[] Container Orchestration
+[] Container Orchestration - https://github.com/saiyam1814 (Check with Siaym has great resources or search google for his videos)
 
-[] Kubernetes Architecture
+[] Kubernetes Architecture - https://drive.google.com/drive/u/1/folders/1poFqABiMWuENs9duBrJ_YP4q4Kh38Kx3 (send permission  request if needed)
 
-## Kubernetes Concepts
+## Kubernetes Concepts (Covered by all contants listed above)
 [] Pods
 
 [] Service
